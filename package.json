@@ -1,0 +1,21 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-sourced susbscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/first_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "sinon": "^9.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
