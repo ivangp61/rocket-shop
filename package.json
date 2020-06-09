@@ -7,13 +7,14 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/first_spec.js"
+    "test": "mocha test/second_spec.coffee"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.26.0",
-    "sinon": "^9.0.2"
+    "sinon": "^9.0.2",
+    "underscore": "^1.10.2"
   },
   "devDependencies": {
     "mocha": "^7.2.0"

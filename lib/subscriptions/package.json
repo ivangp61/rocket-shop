@@ -1,0 +1,15 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscriptions module for rocket shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Ivan Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  },
+  "dependencies": {}
+}
