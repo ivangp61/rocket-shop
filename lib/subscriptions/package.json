@@ -12,6 +12,7 @@
     "mocha": "^7.2.0"
   },
   "dependencies": {
-    "moment": "^2.26.0"
+    "moment": "^2.26.0",
+    "sinon": "^9.0.2"
   }
 }
