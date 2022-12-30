@@ -9,7 +9,7 @@
   "author": "Ivan Gonzalez",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^7.2.0"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "moment": "^2.26.0",
